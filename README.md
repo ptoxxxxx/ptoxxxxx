@@ -1,5 +1,5 @@
 ### Hello!
-I am a wannabe junior software tester from Poland. Learning, practicing and increasing skillset on my own in order to finally get a job in Tech. 
+I am a no-code developer from Poland. Learning, practicing and increasing skillset on my own in order to finally get a job in Tech, while constantly working on my own products.
  
 <br> 
 
